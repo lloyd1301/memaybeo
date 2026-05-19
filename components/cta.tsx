@@ -28,8 +28,8 @@ export default function CTA() {
             href="/blog"
             className="text-white/80 text-sm font-medium hover:text-white transition-colors underline underline-offset-4"
           >
-            Explore our journal
-          </Link>
+            Explore The Collection
+          </Link> https://notavietnam.vercel.app/our-methods
         </div>
 
         {/* Social proof avatars */}
